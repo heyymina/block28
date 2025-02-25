@@ -2,6 +2,7 @@ import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import { Blue, Home, Red, Navigation } from "./components";
 
+
 function App() {
   return (
     <div id="container">

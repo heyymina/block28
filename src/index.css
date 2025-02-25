@@ -58,6 +58,24 @@ button:focus-visible {
   padding: 10px;
 }
 
+.home {
+  background-color: #bcebaa;
+  width: 100vw;
+  height: 100vh;
+}
+
+.blue {
+  background-color: #007BFF;  
+  width: 100vw;
+  height: 100vh;
+}
+
+.red {
+  background-color: #e52e27;  
+  width: 100vw;
+  height: 100vh;
+}
+
 
 /* Responsive styles for light mode */
 @media (prefers-color-scheme: light) {
